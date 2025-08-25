@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/status-demo-orange.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Privacy](https://img.shields.io/badge/data-sensitive%20files%20excluded-critical.svg)]()
+
 🇮🇹 Come funziona
 
 Questo repository contiene solo lo script (data_entry_compiler.py).
